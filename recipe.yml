@@ -2,10 +2,12 @@ name: 'Sofarkotta Songs'
 description: 'Provides the content type and views for Sofarkotta.'
 type: 'Content type'
 install:
+  - field_permissions
   - field_group
   - file
   - link
   - menu_ui
+  - multiselect_dropdown
   - node
   - options
   - rest

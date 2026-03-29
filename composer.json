@@ -11,7 +11,8 @@
         }
     ],
     "require": {
-        "drupal/field_group": "^4.0"
+        "drupal/field_group": "^4.0",
+        "drupal/field_permissions": "^1.5",
+        "drupal/multiselect_dropdown": "^1.2"
     }
 }
-
